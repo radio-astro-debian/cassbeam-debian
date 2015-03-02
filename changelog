@@ -1,0 +1,5 @@
+cassbeam (0.1-1trusty) trusty; urgency=low
+
+  * Initial release
+
+ -- Gijs Molenaar <gijs@pythonic.nl>  Mon, 02 Mar 2015 11:54:56 +0200
